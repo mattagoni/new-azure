@@ -91,7 +91,7 @@
             "value": "magoni"
         },
         "adminPassword": {
-            "value": null
+            "value": Password!23
         }
     }
 }
