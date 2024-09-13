@@ -6,10 +6,10 @@
             "value": "australiasoutheast"
         },
         "networkInterfaceName": {
-            "value": "magoni-pan01964"
+            "value": "pan01-nic"
         },
         "networkSecurityGroupName": {
-            "value": "magoni-pan01-nsg"
+            "value": "pan01-nsg"
         },
         "networkSecurityGroupRules": {
             "value": [
@@ -52,7 +52,7 @@
             "value": "/subscriptions/89deef9f-ab1a-4312-923a-3b0d9bf53d1c/resourceGroups/magoni/providers/Microsoft.Network/virtualNetworks/HubNetwork"
         },
         "publicIpAddressName": {
-            "value": "magoni-pan01-ip"
+            "value": "pan01-pub-ip"
         },
         "publicIpAddressType": {
             "value": "Static"
@@ -64,10 +64,10 @@
             "value": "Delete"
         },
         "virtualMachineName": {
-            "value": "magoni-pan01"
+            "value": "pan01"
         },
         "virtualMachineComputerName": {
-            "value": "magoni-pan01"
+            "value": "pan01"
         },
         "virtualMachineRG": {
             "value": "magoni"
