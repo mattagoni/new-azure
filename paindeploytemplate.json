@@ -147,7 +147,7 @@
                         "publisher": "paloaltonetworks",
                         "offer": "panorama",
                         "sku": "byol",
-                        "version": "10.2.11"
+                        "version": "latest"
                     }
                 },
                 "networkProfile": {
