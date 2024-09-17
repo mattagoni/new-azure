@@ -33,7 +33,7 @@
         "imageVersion": {
             "type": "string",
             "allowedValues": [
-                "10.2.11",
+                "latest",
                 "9.1.2"
             ],
             "metadata": {
