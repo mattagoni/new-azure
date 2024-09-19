@@ -33,7 +33,7 @@
             "value": "Standard_D3_v2"
         },
         "imageVersion": {
-            "value": "latest"
+            "value": "11.1.203"
         },
         "srcIPInboundNSG": {
             "value": "0.0.0.0/0"
